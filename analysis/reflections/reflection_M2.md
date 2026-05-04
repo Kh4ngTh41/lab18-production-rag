@@ -1,7 +1,7 @@
 ---
-name: M2 Reflection
+name: Vũ Hoàng Minh
 type: reflection
-module: m2_search
+module: search
 ---
 
 # Module 2: Hybrid Search - Implementation Notes
