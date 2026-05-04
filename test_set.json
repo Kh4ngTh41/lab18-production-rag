@@ -1,3 +1,22 @@
 [
-  {"question": "hihi cả nhà tự tạo testset bằng cơm nhé", "ground_truth": "Không kịp tạo luôn"},
+  {
+    "question": "Nhân viên được nghỉ phép năm bao nhiêu ngày?",
+    "ground_truth": "12 ngày làm việc mỗi năm"
+  },
+  {
+    "question": "Thời gian thử việc là bao lâu?",
+    "ground_truth": "60 ngày thử việc"
+  },
+  {
+    "question": "Quy định về mật khẩu email là gì?",
+    "ground_truth": "Thay đổi mật khẩu mỗi 90 ngày"
+  },
+  {
+    "question": "Cần làm gì khi muốn nghỉ phép không lương?",
+    "ground_truth": "Cần được Giám đốc bộ phận phê duyệt"
+  },
+  {
+    "question": "Chính sách bảo vệ dữ liệu cá nhân quy định gì?",
+    "ground_truth": "Theo Nghị định 13/2023 về bảo vệ dữ liệu cá nhân"
+  }
 ]
