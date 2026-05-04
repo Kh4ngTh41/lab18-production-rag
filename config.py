@@ -12,7 +12,6 @@ COHERE_API_KEY = os.getenv("COHERE_API_KEY", "")
 # --- Qdrant ---
 QDRANT_HOST = "localhost"
 QDRANT_PORT = 6333
-QDRANT_API_KEY = "dev_key"
 COLLECTION_NAME = "lab18_production"
 NAIVE_COLLECTION = "lab18_naive"
 
