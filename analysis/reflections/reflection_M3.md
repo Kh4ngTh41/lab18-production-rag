@@ -1,7 +1,7 @@
 ---
-name: M3 Reflection
+name: Phạm Văn Thành
 type: reflection
-module: m3_rerank
+module: rerank
 ---
 
 # Module 3: Reranking - Implementation Notes
